@@ -1,16 +1,48 @@
-## Hi there 👋
+```js
+export default class Hartman5 {
+    constructor() {
+        this.name = 'Evan Hartman';
+        this.alias = [ 'Evan', 'Hartman5' ];
 
-<!--
-**Hartman5/hartman5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        this.comingSoon = 'Reverse Engineering course developed along side xTekky.';
+    }
 
-Here are some ideas to get you started:
+    contact() {
+        const discord  = '@tenfigures';
+        const telegram = '@hartman50';
+        const email    = 'evanhartman500@gmail.com';
+        
+        return discord, telegram, email;
+    }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    life() {
+        const age        = 16;
+        const occupation = 'Freelance Reverse Engineer';
+        const hobbies    = [ 'Reverse Engineering', 'Sailing', 'Scuba Diving', 'Wrestling' ];
+        
+        return age, occupation, hobbies;
+    }
+
+    programming() {
+        const languages         = [ 'Javascript (Node.js Framework)', 'Python', 'C#' ];
+        const learning          = [ 'WASM', '.C', 'GoLang' ];
+        const ide               = 'Visual Studio Code';
+
+        const preferredLanguage = languages[0];
+
+        return languages, learning, ide, preferredLanguage;
+    }
+}
+```
+
+<h2 align="center">Skills </h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cloudflare,express,github,go,html,css,js,nodejs,npm,php,py,pycharm,react,vscode,webpack,wasm" />
+  </a>
+</p>
+
+<p align="center">
+    <img alt="" src="https://github-readme-stats.vercel.app/api?username=hartman5&theme=tokyonight&show_icons=true">
+</p>
