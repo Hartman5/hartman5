@@ -39,7 +39,7 @@ export default class Hartman5 {
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,cs,cloudflare,express,github,go,html,css,js,nodejs,npm,php,py,pycharm,react,vscode,webpack,wasm" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,cs,express,github,go,html,css,js,nodejs,php,py,react,vscode,webpack,wasm" />
   </a>
 </p>
 
