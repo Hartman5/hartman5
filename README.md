@@ -9,7 +9,7 @@ export default class Hartman5 {
 
     contact() {
         const discord  = '@tenfigures';
-        const telegram = '@hartman50';
+        const telegram = '@reversewasm';
         const email    = 'evanhartman500@gmail.com';
         
         return discord, telegram, email;
