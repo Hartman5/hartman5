@@ -1,3 +1,9 @@
+Big reverse engineer kinda guy
+
+[Telegram](https://t.me/reversewasm)\n
+[Email](mailto:evan@nodesolutions.dev)\n
+[Website](https://nodesolutions.dev/)
+
 ```js
 export default class Hartman5 {
     constructor() {
