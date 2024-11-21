@@ -1,7 +1,7 @@
 Big reverse engineer kinda guy
 
-[Telegram](https://t.me/reversewasm)\n
-[Email](mailto:evan@nodesolutions.dev)\n
+[Telegram](https://t.me/reversewasm)
+[Email](mailto:evan@nodesolutions.dev)
 [Website](https://nodesolutions.dev/)
 
 ```js
